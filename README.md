@@ -1,1 +1,1 @@
-# demo2
+QR Code Component
